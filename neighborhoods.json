@@ -9134,7 +9134,289 @@
         "latitude": 38.072516044755474,
         "longitude": 46.294879331126005
       },
-      "neighborhoods": [],
+      "neighborhoods": [
+        [
+          {
+            "value": "آبرسان",
+            "display": "آبرسان",
+            "slug": "abarsan",
+            "point": {
+              "latitude": "",
+              "longitude": ""
+            }
+          },
+          {
+            "value": "آخماقیه",
+            "display": "آخماقیه",
+            "slug": "akhmaqiyeh",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "آخونی",
+            "display": "آخونی",
+            "slug": "akhuni",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "آرامیان",
+            "display": "آرامیان",
+            "slug": "aramiyan",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "ائل‌گلی",
+            "display": "ائل‌گلی",
+            "slug": "eilgoli",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "ارمنستان داخلی",
+            "display": "ارمنستان داخلی",
+            "slug": "armanestan-dakheli",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "ارمنی دونن",
+            "display": "ارمنی دونن",
+            "slug": "armani-donen",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "اسکالات",
+            "display": "اسکالات",
+            "slug": "eskalat",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "امیرخیز",
+            "display": "امیرخیز",
+            "slug": "amirkhiz",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "انگج",
+            "display": "انگج",
+            "slug": "angaj",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "اهراب",
+            "display": "اهراب",
+            "slug": "ahrab",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "بارنج",
+            "display": "بارنج",
+            "slug": "baranj",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "باغ‌شمال",
+            "display": "باغ‌شمال",
+            "slug": "bagh-shamal",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "باغمیشه",
+            "display": "باغمیشه",
+            "slug": "baghmisha",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "بیلانکوه",
+            "display": "بیلانکوه",
+            "slug": "bilankuh",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "جمشیدآباد",
+            "display": "جمشیدآباد",
+            "slug": "jamshidabad",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "حکم‌آباد",
+            "display": "حکم‌آباد",
+            "slug": "hokmabad",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "خطیب",
+            "display": "خطیب",
+            "slug": "khatib",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "خلجان",
+            "display": "خلجان",
+            "slug": "khaljan",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "خیابان",
+            "display": "خیابان",
+            "slug": "khiyaban",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "دمشقیه",
+            "display": "دمشقیه",
+            "slug": "damashqiyeh",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "ساری‌زمین",
+            "display": "ساری‌زمین",
+            "slug": "sari-zamin",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "سرخاب",
+            "display": "سرخاب",
+            "slug": "sorkhab",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "سیلاب",
+            "display": "سیلاب",
+            "slug": "silab",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "شاه‌آباد",
+            "display": "شاه‌آباد",
+            "slug": "shahabad",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "شتربان",
+            "display": "شتربان",
+            "slug": "shaterban",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "ششگلان",
+            "display": "ششگلان",
+            "slug": "sheshgolan",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "شنب غازان",
+            "display": "شنب غازان",
+            "slug": "shenb-ghazan",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "شهرک رشدیه",
+            "display": "شهرک رشدیه",
+            "slug": "shahrak-rashidiyeh",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "شهرک زعفرانیه",
+            "display": "شهرک زعفرانیه",
+            "slug": "shahrak-zafraniyeh",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "عموزین‌الدین",
+            "display": "عموزین‌الدین",
+            "slug": "omuzin-al-din",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "قراملک",
+            "display": "قراملک",
+            "slug": "qaramalak",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "قره آغاج",
+            "display": "قره آغاج",
+            "slug": "qarah-aghaj",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "قره‌آغاج",
+            "display": "قره‌آغاج",
+            "slug": "qarah-aghaj",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "قونقا باشی",
+            "display": "قونقا باشی",
+            "slug": "qonqa-bashi",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "کرکج",
+            "display": "کرکج",
+            "slug ": "karkaj",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "کوچه ارک",
+            "display": "کوچه ارک",
+            "slug": "kuche-ark",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "کوی جماران",
+            "display": "کوی جماران",
+            "slug": "kuy-jamaran",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "کوی قره‌باغی‌ها",
+            "display": "کوی قره‌باغی‌ها",
+            "slug": "kuy-qarah-baghi-ha",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "کوی مهران",
+            "display": "کوی مهران",
+            "slug": "kuy-mehran",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "کوی ولی‌عصر",
+            "display": "کوی ولی‌عصر",
+            "slug": "kuy-valiasr",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "گجیل",
+            "display": "گجیل",
+            "slug": "gajil",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "مارالان",
+            "display": "مارالان",
+            "slug": "maralan",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "الگو:محله‌های تبریز",
+            "display": "الگو:محله‌های تبریز",
+            "slug": "olgu-mahalehay-tabriz",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "مقصودیه",
+            "display": "مقصودیه",
+            "slug": "moqsudiyeh",
+            "point": { "latitude": "", "longitude": "" }
+          },
+          {
+            "value": "نوبر",
+            "display": "نوبر",
+            "slug": "novbar",
+            "point": { "latitude": "", "longitude": "" }
+          }
+        ]
+      ],
       "street_enabled": false
     },
     {
