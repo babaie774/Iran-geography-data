@@ -1,0 +1,312 @@
+[
+  {
+    "id": 891,
+    "name": "آذربایجان شرقی",
+    "slug": "azarbaijan-east-province",
+    "parent": 891,
+    "point": {
+      "latitude": 38.0962,
+      "longitude": 46.2738
+    }
+  },
+  {
+    "id": 881,
+    "name": "آذربایجان غربی",
+    "slug": "azerbaijan-west-province",
+    "parent": 881,
+    "point": {
+      "latitude": 37.5455,
+      "longitude": 45.0677
+    }
+  },
+  {
+    "id": 906,
+    "name": "اردبیل",
+    "slug": "ardabil-province",
+    "parent": 906,
+    "point": {
+      "latitude": 38.2498,
+      "longitude": 48.2933
+    }
+  },
+  {
+    "id": 890,
+    "name": "اصفهان",
+    "slug": "isfahan-province",
+    "parent": 890,
+    "point": {
+      "latitude": 32.6546,
+      "longitude": 51.668
+    }
+  },
+  {
+    "id": 895,
+    "name": "البرز",
+    "slug": "alborz-province",
+    "parent": 895,
+    "point": {
+      "latitude": 35.996,
+      "longitude": 50.9289
+    }
+  },
+  {
+    "id": 888,
+    "name": "ایلام",
+    "slug": "ilam-province",
+    "parent": 888,
+    "point": {
+      "latitude": 33.6374,
+      "longitude": 46.4227
+    }
+  },
+  {
+    "id": 900,
+    "name": "بوشهر",
+    "slug": "bushehr-province",
+    "parent": 900,
+    "point": {
+      "latitude": 28.9234,
+      "longitude": 50.8203
+    }
+  },
+  {
+    "id": 904,
+    "name": "تهران",
+    "slug": "tehran-province",
+    "parent": 904,
+    "point": {
+      "latitude": 35.6892,
+      "longitude": 51.389
+    }
+  },
+  {
+    "id": 903,
+    "name": "چهارمحال و بختیاری",
+    "slug": "chahar-mahaal-and-bakhtiari-province",
+    "parent": 903,
+    "point": {
+      "latitude": 32.3256,
+      "longitude": 50.8644
+    }
+  },
+  {
+    "id": 876,
+    "name": "خراسان جنوبی",
+    "slug": "khorasan-south-province",
+    "parent": 876,
+    "point": {
+      "latitude": 32.8663,
+      "longitude": 59.2211
+    }
+  },
+  {
+    "id": 880,
+    "name": "خراسان رضوی",
+    "slug": "khorasan-razavi-province",
+    "parent": 880,
+    "point": {
+      "latitude": 36.3107,
+      "longitude": 59.5995
+    }
+  },
+  {
+    "id": 896,
+    "name": "خراسان شمالی",
+    "slug": "khorasan-north-province",
+    "parent": 896,
+    "point": {
+      "latitude": 37.475,
+      "longitude": 57.3314
+    }
+  },
+  {
+    "id": 902,
+    "name": "خوزستان",
+    "slug": "khuzestan-province",
+    "parent": 902,
+    "point": {
+      "latitude": 31.3183,
+      "longitude": 48.6706
+    }
+  },
+  {
+    "id": 879,
+    "name": "زنجان",
+    "slug": "zanjan-province",
+    "parent": 879,
+    "point": {
+      "latitude": 36.6736,
+      "longitude": 48.4787
+    }
+  },
+  {
+    "id": 882,
+    "name": "سمنان",
+    "slug": "semnan-province",
+    "parent": 882,
+    "point": {
+      "latitude": 35.2256,
+      "longitude": 54.4342
+    }
+  },
+  {
+    "id": 883,
+    "name": "سیستان و بلوچستان",
+    "slug": "sistan-and-baluchestan-province",
+    "parent": 883,
+    "point": {
+      "latitude": 29.4963,
+      "longitude": 60.8629
+    }
+  },
+  {
+    "id": 898,
+    "name": "فارس",
+    "slug": "fars-province",
+    "parent": 898,
+    "point": {
+      "latitude": 29.5918,
+      "longitude": 52.5837
+    }
+  },
+  {
+    "id": 878,
+    "name": "قزوین",
+    "slug": "qazvin-province",
+    "parent": 878,
+    "point": {
+      "latitude": 36.2797,
+      "longitude": 50.0049
+    }
+  },
+  {
+    "id": 892,
+    "name": "قم",
+    "slug": "qom-province",
+    "parent": 892,
+    "point": {
+      "latitude": 34.64,
+      "longitude": 50.8764
+    }
+  },
+  {
+    "id": 885,
+    "name": "کردستان",
+    "slug": "kurdistan-province",
+    "parent": 885,
+    "point": {
+      "latitude": 35.3219,
+      "longitude": 46.9862
+    }
+  },
+  {
+    "id": 877,
+    "name": "کرمان",
+    "slug": "kerman-province",
+    "parent": 877,
+    "point": {
+      "latitude": 30.2839,
+      "longitude": 57.0834
+    }
+  },
+  {
+    "id": 905,
+    "name": "کرمانشاه",
+    "slug": "kermanshah-province",
+    "parent": 905,
+    "point": {
+      "latitude": 34.3277,
+      "longitude": 47.0778
+    }
+  },
+  {
+    "id": 887,
+    "name": "کهگیلویه و بویراحمد",
+    "slug": "kohgiluyeh-and-boyer-ahmad-province",
+    "parent": 887,
+    "point": {
+      "latitude": 30.6683,
+      "longitude": 51.5881
+    }
+  },
+  {
+    "id": 897,
+    "name": "گلستان",
+    "slug": "golestan-province",
+    "parent": 897,
+    "point": {
+      "latitude": 36.8425,
+      "longitude": 54.4397
+    }
+  },
+  {
+    "id": 889,
+    "name": "گیلان",
+    "slug": "gilan-province",
+    "parent": 889,
+    "point": {
+      "latitude": 37.2808,
+      "longitude": 49.5831
+    }
+  },
+  {
+    "id": 884,
+    "name": "لرستان",
+    "slug": "lorestan-province",
+    "parent": 884,
+    "point": {
+      "latitude": 33.5817,
+      "longitude": 48.3989
+    }
+  },
+  {
+    "id": 893,
+    "name": "مازندران",
+    "slug": "mazandaran-province",
+    "parent": 893,
+    "point": {
+      "latitude": 36.5633,
+      "longitude": 53.06
+    }
+  },
+  {
+    "id": 901,
+    "name": "مرکزی",
+    "slug": "markazi-province",
+    "parent": 901,
+    "point": {
+      "latitude": 34.0954,
+      "longitude": 49.6892
+    }
+  },
+  {
+    "id": 894,
+    "name": "هرمزگان",
+    "slug": "hormozgan-province",
+    "parent": 894,
+    "point": {
+      "latitude": 27.1833,
+      "longitude": 56.2667
+    }
+  },
+  {
+    "id": 899,
+    "name": "همدان",
+    "slug": "hamadan-province",
+    "parent": 899,
+    "point": {
+      "latitude": 34.7975,
+      "longitude": 48.5128
+    }
+  },
+  {
+    "id": 886,
+    "name": "یزد",
+    "slug": "yazd-province",
+    "parent": 886,
+    "point": {
+      "latitude": 31.8972,
+      "longitude": 54.3561
+    }
+  }
+]
